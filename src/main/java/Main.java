@@ -1,5 +1,3 @@
-package main.java;
-
 import java.util.LinkedList;
 
 public class Main {
@@ -8,9 +6,6 @@ public class Main {
         String str1 = "Hello World";
         String str2 = "My name is Earl";
         String str3 = "I love Java";
-      
-        int u =0;
-
 
         LinkedList<String> earlBio = new LinkedList<>();
         earlBio.add(str1);
