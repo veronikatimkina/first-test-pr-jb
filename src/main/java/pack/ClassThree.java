@@ -1,5 +1,6 @@
 package main.java.pack;
 
+@Deprecated
 public class ClassThree {
     public void foo(){}
 
