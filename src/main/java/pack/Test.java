@@ -1,4 +1,4 @@
-package main.java.pack;
+package pack;
 
 import org.w3c.dom.ls.LSOutput;
 
