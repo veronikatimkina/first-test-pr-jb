@@ -1,6 +1,10 @@
 public class TestBr {
     
     public static void main(String[] args) {
-        //wecfer
+        System.out.println("gfuyucyedcgwdcwce");
+    }
+
+    public boolean test(boolean a){
+        return a;
     }
 }
