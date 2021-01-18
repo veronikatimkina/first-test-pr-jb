@@ -4,7 +4,7 @@ public class TestBr {
         System.out.println("ввв");
     }
 
-    public boolean test(boolean a){
+    public int test(int a){
         return a;
     }
 }
