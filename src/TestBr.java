@@ -7,4 +7,8 @@ public class TestBr {
     public int test(int a){
         return a;
     }
+
+    public int test2(int a){
+        return a;
+    }
 }
