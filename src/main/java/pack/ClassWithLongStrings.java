@@ -4,6 +4,7 @@ public class ClassWithLongStrings {
 
     public void foo(){}
 
+    //comment
     public static void main(String[] args) {
         System.out.println("git rebase has two primary backends: apply and merge. (The apply backend used to be known as the am backend, but the name led to confusion as it looks like a verb instead of a noun. Also, the merge backend used to be known as the interactive backend, but it is now used for non-interactive cases as well. Both were renamed based on lower-level functionality that underpinned each.) There are some subtle differences in how these two backends behave:\n" +
                 "\n" +
