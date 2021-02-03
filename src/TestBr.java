@@ -1,10 +1,10 @@
 public class TestBr {
     
     public static void main(String[] args) {
-        System.out.println("ввв");
+        System.out.println(test(1));
     }
 
-    public int test(int a){
+    public static int test(int a){
         return a;
     }
 
