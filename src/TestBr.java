@@ -19,4 +19,6 @@ public class TestBr {
     public int test4(int a){
         return a;
     }
+
+    public void foo(){}
 }
