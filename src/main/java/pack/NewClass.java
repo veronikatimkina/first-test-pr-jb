@@ -1,4 +1,4 @@
 package main.java.pack;
 
-public class Class11 {
+public class NewClass {
 }
