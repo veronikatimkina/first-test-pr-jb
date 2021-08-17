@@ -1,0 +1,913 @@
+- text:    I have done it in 1998.
+  correct: []
+
+- text:    I have been there from 1998.
+  correct: []
+
+- correct: It had happened between 1997 and 2000.
+
+- correct: The most meaningful, even if it had just a few hundred signatures, may have come from one of Nelson's grandchildren, with "people she knew asking me not to play this venue."
+
+- correct: I have been there in the year 2000.
+
+- text:    I have been there last year.
+  correct: []
+
+- text:    I have been there a while ago.
+  correct: []
+
+- correct: I haven't done it since 2 years ago.
+
+- text:    I have been there from 2019 to 2020.
+  correct: []
+
+- correct: The question of gender equality in all spheres of social life has become very hotly discussed in the resent decades.
+
+- correct: Nowadays the possibility of air traveling with no point and earning a private airfly has become some sort of luxury.
+
+- correct: Moreover the lectures have become really boring in most cases.
+
+- correct: It is considered that this type of travel pollutes the air and has become one of the causes to global warming.
+
+- correct: Atmosphere has been polluted by air travel for the last decade.
+
+- correct: Extremely alike reform has been carried out in Germany.
+
+- correct: The question of gender equality in all spheres of social life has become very hotly discussed in the resent decades.
+
+- correct: For example, it is a common knowledge that such profession as a driver has always been connected with man because it requires high physical and mental abilities.
+
+- correct: It cannot be denied that men in comparison with women have always had more preferable social position for many countries.
+
+- correct: On the other hand, as I've already pointed out, the communication is an essentrial skill, which every student should imrove, but it doesn't mean, that this necessary skill should be practised at university.
+
+- correct: It has been suggested , that it would be better, if male and female students should be separated by equal numbers for every subject.
+
+- correct: Grigoriev has written in his book "Differences in development according to the sex", that there are obvious differences between men's and women's development but it may be caused only by their attitude.
+
+- correct: This is just because piracy has become usual in our country and it will be really hard for people to stop using such content.
+
+- correct: In these days Internet and spending time on the different websites have become an essential part in our life.
+
+- correct: There is also an opposite opinion, which says that the things have changed in digital era, so copyright legislation should be reformed nowadays.
+
+- correct: Parents make such decision for them thinking that a language they have chosen for their child will be useful for him in the future.
+
+- correct: There has always existed a discussion about the most suitable age when children should start learning foreign languages.
+
+- correct: The better age for children to begin to study foreign languages has been argued for many years.
+
+- correct: As I have finished an art-school, I can say that liberty in art is important even to children.
+
+- correct: It can not be denied that art has always been that engine which moved the humanity forward and it should provide further growth of us.
+
+- correct: First of all, there are some of researches happened in Stanford`s laboratory of social problems which have shown that group gives a higher results of studying when there is inequal number of students of both sex.
+
+- correct: For instance, the son of my mother's friend used to be aggressive when he was a child but by developing himself he has grown up into a quite and patient man.
+
+- correct: I have had about the research which indicated that the characteristics we are born with have much more influence on our personality and development than any experiences we may have in our life.
+
+- correct: History has shown that some features of personality stay the same during the whole life and actually it pays the major role.
+
+- correct: And his music has changed and changes the lives of enormous number of people.
+
+- correct: It is judged that sedentary lifestyle, which is commonly spread nowadays, has caused a range of problems that have to be solved in order to improve public health.
+
+- correct: The modern era has changed our pace of life in numerous ways and one of the negative outcomes is the reduction of physical activity, resulting in the health issues for a lot of people.
+
+- correct: The importance of sport has increased nowadays.
+
+- correct: Nowadays, the question of public health has reached the important level.
+
+- correct: This issue has become a modern social problem.
+
+- correct: The question of how to enhance public health has always been one of the most important.
+
+- correct: Governments have been trying to find solution to that problem for years.
+
+- correct: There is no doubt that nowadays industry of media has gained great popularity all over the world Everyone wants to watch movies, series and listen to music but far not everyone wants to pay for it.
+
+- correct: In the modern world where technological advances have entered almost every aspect of people's lives, virtual theft is becoming more and more pronounced and alarming.
+
+- correct: So, copying the materials illegally robs people of their legitimate money which they could have gained if a pirate has not opened an access.
+
+- correct: So the number of pirates and their clients has been consistently rising.
+
+- correct: Never the less, other people have claimed that it is profitable and convinient to share and copy music or films.
+
+- correct: Nowadays there is a higly controverisal argue about illegal pirates that is related to downloading musicians or film-makers products without paying for it and this fact has led to argue about whether pirates should be punished or not.
+
+- correct: To prevent this, many contries have announced restrictments and punishment for pirates, and it varies from simple blocking of pirate resources to such punishment as to be arrested.
+
+- correct: Firstly, a person who just steals these files from web-sites, denies to admit and take into account all the work that thousands of people have done while creating a movie or a music album, and also all the money, which were spent on turning these projects into life.
+
+- correct: Nevertheless producers may continue to gain profits if their products are worth it, because consumers that have enjoyed a product even in illegal way can praise the producer with money after all.
+
+- correct: The issue of pirate copies has grown in importance over the past few years.
+
+- correct: We have seen a lot of cases, when the album or film comes out earlier in the internet than in theaters or in the shops.
+
+- correct: Secondly, the developed countries have implemented a lot of copyrights laws that save musicians and film producers from losing money and punish those people who break the laws.
+
+- correct: Some bid companies like Apple or Google have already invented a service which makes the process easier - people pay a monthly fee and listen to as much music and watch as many films as they want.
+
+- correct: In century of high technologies it has become extreamly popular to rob the music's or film's rights owners in the Global net, because of its simplicity, by making their content free for consumers.
+
+- correct: Modern world has created an uncounting number of different kinds of entertainment and music and film products are among them.
+
+- correct: The price includes the time authors had to spend to find an idea, the time and other kind of resources they had to spend to reach the aim of starting their project and money to record and sell everything that musicians and producers have made.
+
+- correct: Therefore, it is simply not fair to litteraly make such people be unpaid for the work they have already done.
+
+- correct: In today's world the problem of illegal pirate copies is actively discussed and has caused a lot of disputes.
+
+- correct: Secondly, copying and sharing music or films is theft, so, people who did it will be able to have got some problems with policemen.
+
+- correct: Most of my friends have changed the way of listening to music since the Apple Music service came to Russia.
+
+- correct: Music and films are not for free":" musicians and film producers have made them for money and they put huge amounts of time and strengh into implementation their ideas.
+
+- correct: The Internet have given more opportunities to thefts including pirating.
+
+- correct: I have faced a number of situations when I knew a person in childhood and was friends with him or her.
+
+- correct: Nowadays, scientists have researched that those characteristics which we have since our birth influe on our personality much more than any behavior experiences or our life development.
+
+- correct: Moreover, the more experience we get the more it is possible that they have somehow changed our personality.
+
+- correct: Thus, the evidence shows that there is something in them they were born with that helps them become who the have become.
+
+- correct: This characteristic, as I have already said, can choose your destiny.
+
+- correct: But if you haven't got a special talent it would be difficult to work at this area.
+
+- correct: Firstly, each person has his interests and he wants to expand the boundaries in subject he has chosen.
+
+- correct: It is clear that nowadays women have become more confident and are not afraid to participate in the competitions with their male counterparts.
+
+- correct: I realise that all of what I have written higher is absolute true, at least for the modern European countries.
+
+- correct: In the last two decades the educational system in most of developing countries has phenomenaly changed.
+
+- correct: Ultimately, this is, as I said before, is very difficult question and as I have never been in other countries, so it is very complicated for me to imagine such a situation, because in the USSR this topic had not any sence":" everybody worked and had an occupation he wanted.
+
+- correct: One of the right, that women have gained through struggle, is the right of studying in academic institutions.
+
+- correct: Constant reports about murders and wars have made violence become a part of our lives, and it no longer seems to be something outstanding.
+
+- correct: Over the past years the crime cases has become to carry out more frequently.
+
+- correct: Another factor which has got a huge affort are computer games.
+
+- correct: Scientits say that computer games have got a lot of advantages, but also disadvantages, for example agressive behaviour.
+
+- correct: Unfortunately, over the past years the number of young people choosing the criminal lifestyle has increased dramatically.
+
+- correct: In conclusion, the level of crime commited by youngsters has increased in recent years.
+
+- correct: Allegedly, the number of crimes committed by young people has increased and, therefore, something has to be done to stop this tendency.
+
+- correct: To begin with, it is fair to mention the fact that doing sport in general can be regarded as a rather time-consuming hobby as well as simple watching games and matches.The tendency towards such a 'passive' way of participating is growing more and more popular, which has led to a great amount of agrument; whether it is worth doing at all.
+
+- correct: Talking about the solutions, the first thing that has come to my mind is the parent-child relashionships and parents control, you should spend as much time with your child in his or her childhood as you can, at least simply giving advice what is wrong and what is right.
+
+- correct: Nowadays it is claimed that delinquency has become more prevalent among young people in comparison with the old days.
+
+- correct: So, even having realised the situtaion, they continue living the way they have been living for a good while.
+
+- correct: As many scientists have claimed that, the main reason for this is that, nowadays, youth are growing with lack of pay attention by their patents but also teachers.
+
+- correct: It is clearly seen that, these sort of movies lead to an increase crime amoung teenagers as they try to cope what they have seen in the movies.
+
+- correct: Customers are not only limited with selections of a variety of goods, they are also have to pay the price that have been set by there brands.
+
+- correct: Nowadays the rate of illegal actions committed by the youth has risen dramatically.
+
+- correct: Secondly, the moral values of modern society have changed.
+
+- correct: The situation with crime in recent years has changed so that most of the illegal actions are being commited by the youth.
+
+- correct: For instance, when you come to any touristic place in Europe and come to a local shop, there are not many local goods or symbols of the country you have come - there are just post cards or some really ordinary clothes, hence if you want to get some national spirit, you should get acquainted with the locals.
+
+- correct: Recently some countries have become concerned about the invention of a system which could provide people with guaranteed income.
+
+- correct: And scientists have been working on it for many years.
+
+- correct: Humans have been trying to learn more about the space for many years and by this moment a huge amount of work has been done.
+
+- correct: There has been a dispute on the topic, if humanity should spend money on social problems instead of exploring the space.
+
+- correct: This company have done dosens of experiments on landing a space rocket and has plans to make Mars a place where people can live.
+
+- correct: British and American cultures have influenced other cultures a lot.
+
+- correct: Some scientists even claim that there are no longer any local cultures, as all of them have been replaced with one global culture.
+
+- correct: Hence, people do not want to watch the movies that are copied from the films they have already seen.
+
+- correct: I think, every citizen of my country has heard something about Hollywood and almost everyone of them has seen at least one American or British film.
+
+- correct: Personally I have grown up on American animation.
+
+- correct: For instance, it can be fruitful because of the fact that people can implement this knowledge on the Earth in order to invent some new technologies based on what they have found out in the space.
+
+- correct: And improving overall quality of life is another crucial feature of scientific space investment especially when speaking of much important downearth I've mentioned above.
+
+- correct: As I've already mentioned, space exploration appears to be a leading power for human progress of enormous strength.
+
+- correct: With that in mind, why should we even pay so much attention to these problems, if they have long proved themselves to be unsolvable?
+
+- correct: There has been much debate in recent times wheather should we spent as much money as we do to research space or we should not.
+
+- correct: Governments all over the world have always invested money to produce films that would reflect certain ideology.
+
+- correct: Lastly, movies as a form of art has always been used to document certain cultural differences that people have in particular country and that is why it is essential that goverment spends money on making note of these traits of character or historical events that are relevant to local community.
+
+- correct: Second of all, as we have seen in Russia with the few governmentally supported films, movies that get funding from the state normally draw bigger attention.
+
+- correct: Despite always having an interest in the outer space, people have received an opportunity to explore it just recently.
+
+- correct: Governmental spendings have always been a debatable issue, and so are the spendings on space.
+
+- correct: There has been much debate about whether the government should spend the budget on common problems in society rather than on research in space.
+
+- correct: Finally, as we have mentioned Hollywood, we should not also forget that films produced there cost a lot.
+
+- correct: As to sum up, maybe governments indeed should give more financial support to film industries, but they should certainly do so with great caution, as we have already seen the sad results of unwisely invested money.
+
+- correct: The main reason for this should probably be, that USA and Great Britain are basically the countries where film industry was created, and so it has thrived and developed for a very long time there.
+
+- correct: Some politicians have come up with an idea to create a "Guaranteed Basic Income" system due to which a citizen gets a fixed sum of money monthly regardless of another his or her income that has been already established.
+
+- correct: Moreover, the ideas and conception about arts has changed.
+
+- correct: Unfortunately, producers of local films cannot afford this and they have to produce films sometimes using old materials":" those that have been already used in previous films.
+
+- correct: Against to the arguments given above I can give the examples of the films which were locally prodused but have recieved the worldwide appreciation.
+
+- correct: These film have captured the audience thanks to their deep thoughts and sence without any great financial expenditures.
+
+- correct: nowadays the whole world has changed dramatically in last decades and we have a vital backthroughs in every country.
+
+- correct: Nowadays space exploration has become a very controversial topic.
+
+- correct: People have dreamed about the space flights since the Ancient times, and now they have the opportunity to watch the stars from spaceship board.
+
+- correct: This problem is too big for the government and it has existed for too long to believe that it can be solved at all.
+
+- correct: To sum up I would like to say, that there are many solutions for overcoming this problem, but first of all, adults should understant the main reason why their children have committed the crime.
+
+- correct: Nowadays it is often told that travelling by planes has become quite dangerous for the ecological situation all over the world.
+
+- correct: Firstly, it is the governments' responsibility to step up when a world-wide issue has reached a crucial condition.
+
+- correct: Secondly, by extanding the amount of time in prison, you give criminals time to think about what they have done and it gives them a chance to change the way they see the world around and even to change themselves.
+
+- correct: Due to the increasing intersts in travel around the world, air travel has become the most popular way of getting from one place to another, because it is proven to be the easiest and the fastest at the same time.
+
+- correct: Air travel has been considered to affect increasingly the ecological air state and boosted the greenhouse effect.Nevertheless, this essay disagrees that a lot of air flights are a waste of time and therefore governments are to restrict constitutionally the percentage of air travel for business and leisure.The first paragraph will discuss the essential role of air tourism and the second one will explain why laws are useless.
+
+- correct: It can be surely stated that during the last two centuries humanity has achieved significant results in transport, making our life more mobilized and comfortable.
+
+- correct: As I've said earlier, car gases, even smoking and breathind produce carbon dioxide and, therefore, pollute air.
+
+- correct: The whole world's existence people have had a problem which could not be resolved ever - crimes.
+
+- correct: The world is a cruel place and it have never had mercy for anyone.
+
+- correct: It has been widely discussed in recent years whether is it relevant to reduce the number of air flights or not.
+
+- correct: However, in my opinion, people cannot refuse from air travelling even partially because it has already became the important part of their lives.
+
+- correct: The recent upsurge of crimes has provoked a serious discussion about means of slowing this tendency down.
+
+- correct: Crimes have always been serious social issue.
+
+- correct: They can have a long prison sentence, be in prison, make there works, hard works and after that, for example,after 25 years, they will not realise what they have done bad, for them it can be only a crime and they can do it one more time.
+
+- correct: Yes, it can be effective, they can realize what they have done, but they can think if they killed one person and do not have prison sentences, they will can kill another person and will not have a punishment.
+
+- correct: More than that, these people propose to help the criminals to solve they problems and make them feel really sorry for the things that they have done to their victims and pay for it.
+
+- correct: It has been discussed for centuries whether criminals have to stay in prisons as long as possible in order to hamper their illegal actions or there are other ways to achieve this goal in every state.
+
+- correct: The question of crime has disturbed humanity all along it's history.
+
+- correct: There is no doubt that travelling by air transports has totally transformed our lives.
+
+- correct: And the reason is that they have never tried to take up this kind of hobby.
+
+- correct: First of all, with the rapid and wide spread of the Internet they have gained access to an infinite amount of knowledge and the weight of that knowledge lies heavily on their shoulders.
+
+- correct: Statistics show that the number of crimes committed among young people has increased during the latest years.
+
+- correct: It is no of an exaggeration that questions of up-bringing have always been crucial and mind-boggling.
+
+- correct: Moreover, crime has been existing since the very beginning of our history and it has been closely connected to the pecularities of the century and traditions of a particular country, that is why it is not easy to comment on the rates of criminal cases.
+
+- correct: Moreover, in our daily life we use a great number of idioms and phrases in our speech which have come from sport.
+
+- correct: It is considered, that the rate of young criminals has reached its peak now.
+
+- correct: It is now on the level it has never been before and it keeps rising, what can be done to prevent this from happening?
+
+- correct: The amount of teenagers and young adults has drastically grown during the last years.
+
+- correct: For example, in Russia in last two years a lavel of violence actions and deaths among teenagers has riched its peack":" more than 50 percent of people at the age from 15 to 20 were involved in crime and even died.
+
+- correct: These days the number of crimes committed by the generation of young people has significantly grown.
+
+- correct: Hardly a day goes by without the discussion that young people have recently committed much more crimes than even before and no one can deny that it's the problem that the older people must focus on.
+
+- correct: Nowadays the world has become more dangerous.
+
+- correct: It can be done by methods that i have descrebied above.
+
+- correct: Nowadays there is a huge problem being reported by the police the amount of crimes has increased and now it is biggest there ever was.
+
+- correct: The recents statistics has shown that local economics consists of small local business on a third.
+
+- correct: The "Guaranteed Basic Income" system that has been put forward by some governments and politicians clearly has a number of advantages and disadvantages to be considered and taken into account.
+
+- correct: For instance, it has been proven by various studies that most sports fans don't work out themselves.
+
+- correct: Although the government is trying to fight this in collaboration with parents, the number of legal violations has become alarming in the recent years.
+
+- correct: More and more people claim that teenagers have become more cruel than ever before.The statistics showes that more than 46% of youngsters were prosecuted and punished for commited crimes.
+
+- correct: Moreover, violent computer games have become widely spread and these games have a bad impact on youngsters' mental health.
+
+- correct: The crimes among the young have increased more than ever before.
+
+- correct: Nowadays young people have done more crimes than people of their age did before.
+
+- correct: It's undeniable fact that the world has been undergoing huge economic downturns, that's why nowadays it's extremely difficult to find a job even for people with high education.
+
+- correct: Nowadays the latest survey has shown the trend among young people to committ crimes much more than ever before.
+
+- correct: The issue of how to develope your bussines such as international organisation, has always been quite important to its owners.
+
+- correct: But, on the other hand, rights of these people are not always equal comparing to rights of the workers from other countries, for instance, from Europe, that is why many of these poor people get deseases and die because of being so much tired and exhausted or end their lives by killing themselves.To conclude all that I have written, I want to say that that location international factories and employement of local workers is a quite good idea.
+
+- correct: Nevertheless there are people who believe in existence of other ways of reducing crime that can be more liberal for person that have committed a crime.
+
+- correct: The downside to sending these types of criminals to jail, is the fact that they won't improve or change their ways, and will not be able to convince like-minded people that a criminal lifestyle has proved harmful to them and can potentially ruin many more lives.
+
+- correct: Prison has been called a school for career criminals before, with people for whom crime was a one-time occurence corrupted by its brutal environment into a life of crime, returning back again and again after being released.
+
+- correct: Many countries have lengthy prison sentences, but crime has continued to increase throughout the world, so it is clear that this is not completely effective.
+
+- correct: The issue of safety and all the matters which could possibly be applied to it has always been crucial for people of all kinds as it affects their quality of life.
+
+- correct: First of all, as i've mentioned before it might help the companies to reduce the amount of money they spend on paying their workers the salary which means they will consequently end up having a bigger revenue.
+
+- correct: As a result, the collocation "made in China" has become a definition for something cheap but of a very poor quality.
+
+- correct: A person, who has seen illegal way of living in the childhood, has more risks to commit a crime by himself.
+
+- correct: That has caused a lot of arguments about morality of this movement.
+
+- correct: Trying to support people in different countries with different amount of money and different level of life, international companies, however, change their own strategies, which have been working for a lot of years, and consiquently, they change the worldview of people.
+
+- correct: On the one hand, a fear of punishment for centuries has been the main tool in our fight against criminality.
+
+- correct: Since the World War II there have been developed many alternatives, based on teaching, talking and empatic behaviour towards the prisoner.
+
+- correct: There is no need to leave criminals in prisons forever, but it would be better if we care of our safety more.All things considered, it is necessary to add that during the last years the crime activity has been reduced.
+
+- correct: The point of view that the society has no right to punish a man, even if he has committed a crime, is quite widespreaded.
+
+- correct: They become better because they have more time to think about what they have done, they try their best to become a new person with a new life.
+
+- correct: In the last few years the idea of uniting in purpose of helping each other on a global scale has become overwhelming.
+
+- correct: As I have read, prisoners in these jails can work (but not have to) and are paid considered amount of money for their work.
+
+- correct: For example, the appearance of "Coca-Cola" in Russia gave local businesses an opportunity to make their own coke or other beverages like this as it has become much more popular than it had been before.Of course there are some disadvantages of movement the international companies' business to poorer countries, as it can be difficult for local companies to share the market with such giants, but, as I have already said, it can be fixed by taxes.
+
+- correct: Lately the leaders of many successful companies have begun to develop their business to less developed countries.
+
+- correct: Nowadays, producing goods in developed countries has become expensive due to various costs.
+
+- correct: Crime is a problem for any country and any society, which people have been trying to solve for many years, and nowadays there is a popular opinion that longer prison sentences may really help it.
+
+- correct: To the 21st century, the risk of the crime has increased as never before, while in the modern world there are a lot of technologies which seem to prevent this.
+
+- correct: In condition when the person has committed a serious crime, he can be sent to work mines.
+
+- correct: Rising amount of crime during the last 15 years has become a serious reason for the government to start thinking about restricting prison sentences.
+
+- correct: First of all, there is an opportunity for prisoner to realize what he or she has done, analyze it and regret.
+
+- correct: For example, last researches have shown that american worker employed by Apple company in the United States has twice as much money as chineese worker has a month.
+
+- correct: More recently, offshoring has been associated primarily with the outsourcingof technical and administrative services.
+
+- correct: Secondly, mastering new territories give a great opportunities to develop not only existing industries but creating the new ones.Developing countries are full of fossils and natural resources which haven't been touched by humans before ,so the nature and the good old technology of the developed countries may combine for the better results.Thirdly these areas exclude rivalry between big companies so they can work freely- there are much less big companies in there.
+
+- correct: Doing sports in a modern world is a key way to keep your health as far as ecological problem has become a significant issue that humanity face with every day.
+
+- correct: Nowadays public health has become worse than whatever before.
+
+- correct: They sure that people which have never been to the gym will not go to train in it even if it will be located near their house.
+
+- correct: It is not surprising that, many and many people have started to go to different sport clubs in order to keep fit.
+
+- correct: Sport has always been an essential part of our lives throughout the history.
+
+- correct: People have been thinking about public helth and triing to improve it since time immemorial.
+
+- correct: Problem of saving public health has always been a crusial problem.
+
+- correct: I have been playing these since my childhood.
+
+- correct: Sport has always been considered to be a part of healthy way of life.
+
+- correct: Over the recent years there has been a huge growth in amount of people doing sport on their own using public sports facilities.
+
+- correct: Firstly, really creative people have been known from times immemorial as not only artists, but as individuals who look far in the future, bring truth to people and inspire them to change the world to the better, so they need to be heard.
+
+- correct: Art has always been an important part of our life.
+
+- correct: Nowadays, the modern art has become one of the most interesting themes to speek about.
+
+- correct: The matter of public health has always been a great concern of any society.
+
+- correct: Moreover, such factors as pollution and a lack of physical activity have already become the tendency of our time.
+
+- correct: But art has also become spoiled by business, so it is impossible to destinguish beauty from fake.
+
+- correct: The second factor is, at least, thinking that you have got a role, function in some sort of scheme because if puts on you responsibility for the whole organisation that gives some more things which you can use as triggers to continue living with full potential.
+
+- correct: As I have already said Mr. Meresev couldn't live without flying, he trained alotÂ¬ and at last he learned how to fly without legs.
+
+- correct: Historically came, that artists always have been restricted by government or reach people.
+
+- correct: For example, an artist can thinks that breaking statues is a magnificant idea to express that the past has gone, but statues are the part of culture which should be saved for next generations.
+
+- correct: It is widely known that the modern world with its new technologies has created new vision of art.
+
+- correct: There are a lot people who are very talented and have already been skilled in their field.
+
+- correct: Throught hundreds of years there have always been arguments about the degree of freedom artists should be given.
+
+- correct: Problems relating the air pollution in general have always been one of the topical issue all over the world.
+
+- correct: As a result of high-intensive development of market economy the competition between many international companies has become more harder.
+
+- correct: Nowadays approximately all countries in the world have been touched with the process of globalization.
+
+- correct: Today it has become popular among big companies to settle their manufactures in the countries at the third world.
+
+- correct: Also this innovation can affect on other people's desire to live in this country because it has become more perspective and better for living.
+
+- correct: The main advantage of this development can be supported by real example of Nestle company which nowadays has based their parts of producing products not only in developed but also in developing countries.
+
+- correct: In my opinion, we have to increase prison sentences, so peopled will pay for killing people or other illegal things that they have done.
+
+- correct: On the other hand, if people have not done anything illegal but they have been charged by mistakes for someone, they will have to stay longer inside the prison because of the increasing sentences.
+
+- correct: Whether or not travelling via aircraft should be restricted has been a burning issue for a quite some time now.
+
+- correct: Some researches have proved that this type of transport is responsible for a big share of air pollution and, consequently, global warming , and so their number should be reduced by governments.
+
+- correct: The amount of air travels have been growing steadily for about 6 past decades.
+
+- correct: It is common knowledge that the increased amount of flights has led to acute environmental problems such as air pollution and global warming.
+
+- correct: It has become common place that people prefer air travelling for business and other aims.
+
+- correct: A lot of people throughout the world have got the opportunity to more to distant lands on purpose and for pleasure in considerably little time.
+
+- correct: No doubt, that it has been proven to contribute greatly to air pollution and global warming but there are a lot of other things that influence on environmental more than air travel, however, they are not so forbidden.
+
+- correct: To my mind, air travel has been used mostly, last years because this way of travel is faster and sometimes cheaper that others.
+
+- correct: In last decades air travel has developed significantly":" new planes were designed, some of them are more ecologically- friendly than thei previous ones, many new air companies were established.
+
+- correct: On the other hand, the way of using these web-sites has changed a lot.
+
+- correct: All things considered, the purpose of social networks have changed from simply mean of communication on complex system involving different convenient facilities both to communicate and to entertain.
+
+- correct: However, networks have been developing and many different facilities have been added.
+
+- correct: The use of social media has greatly influenced modern world society.
+
+- correct: Talking about the other point of view, entertainment has become an essential part of our everyday life.
+
+- correct: In recent years the social web-sites have become more popular with people around the world.
+
+- correct: There have always been considerable debates between different groups of people about what social networking sites should be primary used for.
+
+- correct: The advances made by humans have made us the dominant species on our planet.
+
+- correct: Social media have become extremely important in nowadays life.
+
+- correct: with the simplicity of a built in messaging interfare, it has never been easier to communicate any idea or subject to a friend or even to a teacher or tutor.
+
+- correct: That is, these social media have become so popular among people of all ages because with its help it is possible to get access to gygabits of music or videos, watch photos taken in all parts of our planet or read some notes of a person discussing the subject you are interested in.
+
+- correct: The development of the Internet has brought such means of communication as social networks.
+
+- correct: As the technologies are being developed every year, humanity has started to think about our planet.
+
+- correct: This problem is critical to our society and some measures and improvments have been done, but some advantages are not used widely by all firms in this economic sphere.
+
+- correct: Primacy of all, people have enjoyed the convenience flying by plane which included flexible intinities, a variety of destination time saving and to come chep tickets.
+
+- correct: It is a fact, that are pollution has risen with the start of air travel centure.
+
+- correct: On the other hand, I am sure that all mentioned advantages have got the opposite side.
+
+- correct: For instance, the quality of some brands phones has become poorer recently, and maybe due to their manufacturing in China and other Asian countries which are at the low stage of development.
+
+- correct: Ignoring low salaries, nevertheless, they have got an ability to earn money.
+
+- correct: Numerous ethnical features have been destroyed by growth of industry, all over the world, many unique tribes have lost their living places, many languages will never sound on or planet anymore due to human greed and vigor to have more money.
+
+- correct: In the recent years a new tendency has appeared - huge companies, like Nike, Reebok and others move their businesses to undeveloped (or "developing") countries of the so-called Third World.
+
+- correct: In conclusion, the any air travel has been proven to contribute to air pollution one of main issue any people to save our planet and government is the main helper every citizen.
+
+- correct: Great companies have been interested in spreading their business to the new places and areas.
+
+- correct: So, the society has started to understand that a voluntary work can be used as a good tool for teaching young people.
+
+- correct: Today the activity of volunteer organizations has grown significantly.
+
+- correct: To conclude, I would like to say that if we really want to be healthy we should take care about our body ourselves, but of course with the help of the state, and the best way to do it is to use all ways which I have named above.
+
+- correct: If all the policies I have brought up in this essay will come true, the level of public health will increase and with it, nation's welfare.
+
+- correct: Thus, nowadays this issue has sparked the heated debate and world is trying to find out the solutions.
+
+- correct: Children's development has always been an pervasive issue.
+
+- correct: It has become apparent in recent years that because of the appearance of harder systems of education and some other reasons the life of modern pupils turns in to eternal sitting at school and at home.
+
+- correct: The majority of children are so busy, as they have got no opportunity to learn something about nature by their own, which is very important for them.
+
+- correct: In recent years, people have done a lot of damage, polluted air and water, created a lot of garbage.
+
+- correct: Many researchers have found that it is necessary for teenages to communicate with natural world.
+
+- correct: This problem has been a controversial issue for the last fen years.
+
+- correct: Some people, living in far regions, haven't got a cinema near.
+
+- correct: On the other hand, I can understand people who believe that if sportsmen has done it on purpose they should be banned for the rest of their lives.
+
+- correct: They've done it so they don't care about rules and other important things in the world of sport competitions.
+
+- correct: This issue hasn't died yet and debates about difference of sexes exist in many social arias, for example, in universities.
+
+- correct: I have been convinces that our goverment should organize the recruit of students with the same quantity as men as women.
+
+- correct: However, it cannot be only materialistic factors, as I have metioned it above, or spiritual ones, they should be matched at the "equillibrium" point that is, one more time, different for all people.
+
+- correct: It means that all we have done is for achieving the happiness.
+
+- correct: The have never thought about philosophical aspects of this world.
+
+- correct: Young people who just have finished schools often have no desire and motivation to continue the education in universities.
+
+- correct: Biotechnology and genetic engineering have proved that the genes are allocated apriori, even before a human is born to the world.
+
+- correct: Now these reseatches are in process, but scientists have presented electric cars which aren't harmful for enviroment.
+
+- correct: But on the other hand of course air travel has been proven to contribute greatly to air pollution become critical our goverment must to do some things.
+
+- correct: The problem of improving health among people has been discussed a lot lately.
+
+- correct: After all, why people have have invented the plane?
+
+- correct: Air travel has been proven to contribute greatly to air pollution and global warming.
+
+- correct: This mean of transport has already become the popular one and it also will develop in the future.
+
+- correct: I've seen by myself how families are been literally ruined by the kid's drug usage":" in many ways it can be prevented by government giving various sports doing opportunities":" sometimes children just don't know what to do with their time.
+
+- correct: Nowadays life has become much comfortable and safe.
+
+- correct: We have relaxed thinking that the world is doing everything by itself, we do not take care of anything and first of all of our health.
+
+- correct: Scientists have proved that rich people are often happier and healthier than poor ones.
+
+- correct: In recent years it has proven that air travel is dangerous for the atmosphere and was recognised that many air travels were not necessary.
+
+- correct: I have noticed all advantages and disadvantages of this measure.
+
+- correct: To sum up, I have discussed two points of view of increasing the number of sports facilities.
+
+- correct: \"Air travel has been proven to contribute greatly to air pollytion and global warming.
+
+- correct: Nowadays, air travelling has become a popular mean of transport, as it fast, comfortable and save.
+
+- correct: Health problem has always been one of the most actual and controversial in some way.
+
+- correct: It is undeniable that health has always been playing indispensable role in any society.
+
+- correct: In conclusion I would like to say that air travelling has been proven to contribute greatly to air pollution and global warming, but mostly it is not so dangerouse as 20 years ago.
+
+- correct: A great number of innovations have made our life much easier.
+
+- correct: For example, Chinese government has made special restrictions which banned those factories, which caused too much pollution.
+
+- correct: Statisticians report that the number of blind people has increased in past few years and in their opinion correlation is obvious.
+
+- correct: Nowadays thanks to globalization there is steadily increase of using of air transport, which has been proven to countribute signiticantly to air pollution and global warming.
+
+- correct: Air travel has been proven mony problems, such as air pollution and global warming.
+
+- correct: In recent years people have become of ecological problems such as air pollution and global warming.
+
+- correct: Some students have also proven that air travel is unnecessary, because nowadays there are often options.
+
+- correct: In addition to this, the world has become much more violent than it used to be.
+
+- correct: Moreover, drugs have become one of the greatest problems we face today.
+
+- correct: Social networks have become an important part of everyone's everyday life, thus it is easy to manipulate people.
+
+- correct: As a result, their communication has altered its form and transferred from streets to computers":" it is a fact that young people nowadays communicate using social networks more, than in the real life.
+
+- correct: In order to defend children from users of their labour, goverments have closed the majority of opportunities to work for children.
+
+- correct: To soften the negative effects that I have written about above, the following could be done.
+
+- correct: Amount of young people, who commites crimes, has rosen in past few years.
+
+- correct: Compared to previous periods today it has reached unseen before level.
+
+- correct: Nowadays the situation has changed and young people do not have to earn money since they are physically ready to.
+
+- correct: It has become a matter of a huge concern that young people commit more crimes than earlier.
+
+- correct: Nowadays the problem of a high crime rate among young people has become a significant problem for society as it affects our security In this paper I would like to suggest the causes of this phenomena and make advise how to tackle with the given problem.
+
+- correct: As I have mentioned above the perspective roots of the problem lie in the area of leisure time and economic environment, so these matters should be prioritized.
+
+- correct: Finally, recent economic difficulties damaged family well-beings, consequently young people might have been commiting crimes for economic purposes.
+
+- correct: Second, crimes and violence have already become a part of the mass-culture and these ideas are further developed by blockbusters and video-games.
+
+- correct: From all that I have been written we can understand that illegal copies just help film and music makers become popular and famous.
+
+- correct: There are many people wo earn a livelihood by selling pirate copies and they still haven't been punished.
+
+- correct: To sum up, I would like to say that every person should be payed for the work he/she has done.
+
+- correct: Therefore, they should get money for the job they have done and it is not fait that people use their efforts for free.
+
+- correct: When you have done the work it is normally to get money for it.
+
+- correct: Modern technologies include huge amount of different items and definitions, but there is one thing, which has totally changed our live, it is gadgets.
+
+- correct: Indeed, the 20th century totally changes the lifestyle of people, because there have been invented some unbelievable things like the Internet or a mobile phone.
+
+- correct: The one of the most popular question in the world in the 21 century is how modernization in technologies has infuenced on every person.
+
+- correct: It has become an essential part of our lives, something we can't have fun of communicate without, but is it really all that good or are there downsides to us using so much of it all the time?
+
+- correct: One can't deny that technology has changed the world that we live in for good over just a few decades.
+
+- correct: One of the issues that has come to the attention of many with the rise of technology is that it can sometimes cause problems with health and the number of those problems is increasing all the time.
+
+- correct: As I have already mentioned, the problem of rising amount of illnesses is hart to solve.
+
+- correct: Science has already proved, that some modern technology devices can cause serious health problems.
+
+- correct: Scientists haven't researched enough is it harmful for health of not yet.
+
+- correct: In the name of progress and development, the natural erovironment has beed destroyed.
+
+- correct: Today the technology has spread so wide, we can't even live without it.
+
+- correct: First - I have been known a lot of people, who is not able to spend money for this.
+
+- correct: In recent years the concern about the protection of copyrights of the Internet's contents has increased significantly as there are more and more contents that are uploaded to the Internet including music, movies.
+
+- correct: In this essay I have showed why I think that musicians and film producers should be free, and becaus if this will not so then companies that deal musicians and film producers lose money.
+
+- correct: Air travel has become a significant part of our contemprory world.
+
+- correct: The first one is not the option as it has just been concluded.
+
+- correct: However, the cost of living has increased, so that parents have to have not only 1 job, but even more.
+
+- correct: Another problem is psychological, it has been proved that the amount of time spend with the mother in the childhood is closely related to future mental state and even future income.
+
+- correct: Secondly, these protectors of humanity should recall the fact that jets are the most safety transport that people have ever made.
+
+- correct: Nowadays, the time spent by families in order to go out or jut gather and talk to each other has become miserable.
+
+- correct: Over the last decades the problem of "parent and child" has received renewed interests by lots of people.
+
+- correct: In conclusion, it is obvious that the times have changed and modern families do not share any kind of resemblance with the precious ones, however the only common feature of families now and then might be communication.
+
+- correct: Like many others I have experienced the constant work overload of my parents during the time of the childhood and I believe that under the modern circumstances it is now immensely important to make the time for your family somehow at least on the weekends not being bothered by the constantly arousing business issues The key feature here is evidently a phyciological approach due to which the families should understand the major importance of the family activities and minor importance of fulfilling carious work tasks on freetime.
+
+- correct: Air travel has reached sizes, that were inimaginable decades ago.
+
+- correct: Moreover, it has become one of the main contribution to air pollution and global warming.
+
+- correct: Recently, the plane-making companies have introduced a new type of airplanes which are to start being used in the near future.
+
+- correct: Over the last 10 years travel has become extremely popular worldwide (in our country).
+
+- correct: In my view, humanity haven't invented good substitute for planes and we can't reject from air travel.
+
+- correct: Recent years, humanity has faced the problem of global warming and, obviously, we try to find reasons for it in all things.
+
+- correct: Air travel has been preven to contribute greatly to air pollution and global warming.
+
+- correct: Air travel has been proven to contribute greatly to air pollution and global warming.
+
+- correct: If they had not been able to fly from country to country, they would have spent their lives travelling endlessly.
+
+- correct: As it has been proved one of the main factors which contribute enourmously to this problem is air travel.
+
+- correct: The problem of air pollution and global warming has become extremely vital in the last decades.
+
+- correct: Many people think that there have been much unnecessary flights and the air travel for leisuring are unnecessary too.
+
+- correct: Air pollution and global warming are the problems which air travel has been proven to contribute.
+
+- correct: Finally, as it has been said, such laws will ignore human rights, which are universal and inalienable.
+
+- correct: I have long held that the main helpful way to prevent air pollution and global warming is to cut a great deal of air travel.
+
+- correct: It has been assumed that nowadays the issue of global warming is becoming an acute problem and governments and international organisations tend to resolve this problem by introducing some effective rules.
+
+- correct: \"It has been estimated that travelling by air cases many problems such as air pollution or global warming.
+
+- correct: There is no doubt that travelling by air has introduced many new perspectives for the mainkind and, consequently, brought more convenience in people's lives.
+
+- correct: Our society has become more open and mixed-cultured with the invention of airplanes.
+
+- correct: It has been proven by scientists.
+
+- correct: Such significant quantity of gases has been thrown away and as a result atmosphere suffers.
+
+- correct: Air travel has become highly popular and it can easily be understood if we only look at the upcoming and departed number of flightcin a busy aviation.
+
+- correct: Secondly, it has been proven that air travel contributes to global warming.
+
+- correct: There is no doubt that over the last several decades the number of people travelling to different parts of the world has significantly increased, causing various environmental problems.
+
+- correct: However, there is a problem of global warming and air planes also have got a bad influence on this fact.
+
+- correct: People have been discussing the problem of air pollution since time immemorial.
+
+- correct: It goes without saying that nowadays the problem of air pollution and global warming has become a hot issue.
+
+- correct: Otherwise, till new ways of safe travelling haven't invented yet, the amount of flight, polluting atmosphere sould be shorted.
+
+- correct: It is a well-knows fact that due to ongoing globalization processes, which have already taken over the majority of our business society, more and more people tend to use planes to move around the places.
+
+- correct: There is a notion that air travel has become one of the main sources contributing to an increase in air pollution and global warming.
+
+- correct: Nowadays, obviously, the situation has changed and there are a wide range of succesfull woman, who achieved a lot in those fields, such as Margaret Tatcher or Hillary Clinton.
+
+- correct: From my point of view universities, if they haven't got the popularity, can't accept equal numbers in every subject, because in maths and physics the appropriate student is the male and in humanitary sciences the girl is more suitable than boy.
+
+- correct: The dividing by the sex criteria has been exhausted since formation of democratic societies.
+
+- correct: As I have said before, it will be better if government will give the creative artists the ability to tell about their ideas without any fear of punishment.
+
+- correct: For instance, it would be almost impossible to keep an eye on a censure, because some artists have got an extraordinary views on art.
+
+- correct: The fact is that the restrictions haven't ever been objective.
+
+- correct: Secondly, I have mentioned earlier that these restrictions should not be too serious.
+
+- correct: A lot of my coursemates now complain that they have made a huge mistake going here.
+
+- correct: One my school classmate has even chosen the faculty on his second year at university.
+
+- correct: For many years member of emansipation have been fighting for equal rights for male and female all over the world.
+
+- correct: The change can be a reason of situation then there is no competition in getting into the subject, if universities will accept the predicted proportion of the male and female students, some of them can take the course just because there was an vacant place and he has got a needed sex.
+
+- correct: For example, a girl may have scored high test results and still will not be accepted due to her gender as there have already been shaped a group of ten girls and only boys are legit since this time.
+
+- correct: It is unfair to make students of both gender base their orientation on universities' quotations and choose certain subjects over another one they would have preffered to study instead due to gender limitation.
+
+- correct: That is why it is unfair to make them choose certain subject because of gender limitations in another one they would have preferred to study instead.
+
+- correct: A gap year after school has been getting a lot of media resources coverage nowadays because of it's popularity.
+
+- correct: But the world is developing so rapidly that it is not really possible, since phones have become a big part of the lives.
+
+- correct: So, they have become a real drug for people, whose even do not understand what negative effect their gadjets have.
+
+- correct: One area that has dramatically changed is the way we communicate and maintain our relationship nowadays.
+
+- correct: Without any doubt, the technology has changed the way we lead our lives and these changes are prominent over the last decade.
+
+- correct: How many times we have seen children who already have to wear glasses or eye lenses at this young age to see clearly?
+
+- correct: To summarize, modern technologies have become one of the most important things in our lives.
+
+- correct: Unfortunately, people don't forsee such health problems, but just try to reduce problems, which they have already had.
+
+- correct: To conclude, the contemporary society has receantly devided on two opposite sides":" prohibit the profiesional carrier for a limited period or ban every athlet, who using drugs for the rest of their lives.
+
+- correct: Moreover, there is not very good tendency in professional sport":" political relationships between countries last few years have begun to effect to the dicisions in sports.
+
+- correct: However, we should be strict in some way to such sportsmen and take away all their awards and trophies which have been taken in \"doping\" period.
+
+- correct: To conclude, two points of view have been discussed":" one was to ban athlets using prohibited drugs for a period of time and other \- to disqualificate them for the rest of their career.
+
+- correct: Nowadays the case of using illegal drugs in professional sport has become a burning issue and make a lot of concernes.
+
+- correct: Nowadays, the age when people start suffering from poor vision has decreased significantly.
+
+- correct: In recent years the problem of illegal drugs in sport has become very acute.
+
+- correct: To begin with, the amount of illegal drugs has increased over time.
+
+- correct: In recent years the problem of using the illegal drugs by athletes has became burning.
+
+- correct: Secondly, sportsmen that have been already caugh should be checked more often.
+
+- correct: Also, new technology has influenced on sport industry.
+
+- correct: For example, a lot of different inventions in medecine against cancer have been developed over the past 2 decades.
+
+- correct: First of all, nowadays cheating during the competition have became such a wide-spread appearance that only strict measures can prevent it from further expansion.
+
+- correct: So, if human have done a mistake it should not cost a career for him.
+
+- correct: On the other hand, I can understand people who believe that if sportsmen has done it on purpose they should be banned for the rest of their lives.
+
+- correct: They've done it so they don't care about rules and other important things in the world of sport competitions.
+
+- correct: Thirdly, the causes of the problem with the student behavior as I have mentioned are living in problems in the family and with the classmates.
+
+- correct: As air travel has been proven to affect the level of air pollution, governments should creat laws to reduce the number of air travel for leisure and business.
+
+- correct: I think it is happend because children have got much freedom than it was in the past.
+
+- correct: My sistars ofther try to repeat what they have watched or imaginate something similar.
+
+- correct: Nowadays it is believed that journeys and trips by aircrafts have become a catalyst and boosten like global warming and air pollution.
+
+- correct: I have already proved that in most cases air travelling cannot be substituted.
+
+- correct: In conclusion, I would like to underline that in spite of the factors that force schoolars to behave unreasonably, if the suggested measures have been taken, the problem with the students` violance will be triggered.
+
+- correct: And now, it has become an example of perfect urbanization.
+
+- correct: Consequently, travelling by air is not the greatest one and many private companies have already started to do something to solve the problem.
+
+- correct: In order to reduce the effect of factory fumes governments have already implemented laws that restrict the amount of fumes exhausted.
+
+- correct: Much has been written on the problem of pupil's attitude towards studying and teachers at school though it is still a controversial issue.
+
+- correct: It is hard to disagree that our consuming habits have brought us into a conflict with nature making it is close to collapse.
+
+- correct: The issue of disastrous effect of air travel on environment has become a matter of great concern for the government in recent years.
+
+- correct: It has been proven but many scientists and even international corporations that if we will not be more serious with ecological problems today, it will be impossible to live in this planet in near future.
+
+- correct: In conclusion, I would like to say that air travel has become an essential part of modern world, and we cannon restrict it.
+
+- correct: Atmosphere has been polluted by air travel for the last decade.
+
+- correct: It is considered that this type of travel pollutes the air and has become one of the causes to global warming.
+
+- correct: Moreover the lectures have become really boring in most cases.
+
+- correct: Nowadays the possibility of air traveling with no point and earning a private airfly has become some sort of luxury.
+
+- text:    Copyright legistation has appeared not so long ago but it erases a lot of debates now being a very controversial issue.
+  correct: []
+
+- text:    The campaign of women rights has started many years ago.
+  correct: []
+
+- text:    She has become an artist there last summer.
+  correct: []
+
+- text:    I have travelled by train last year and it was amazing!
+  correct: []
+
+- text:    Nevertheless, investment in developing countries rised with some fluctuations, so in 2012 it has reached a number of more than 100 dollars but then decreased to 100 in 2013.
+  correct: []
+
+- text:    More over speaking about developing countries, we can see that it has stably grown from 2006 till 2012.
+  correct: []
+
+- text:    In 2013 the popularity of mobile has risen from about 60 millions of people to about 100 of users.
+  correct: []
+
+- text:    It has fallen by 18,2 millions girls and 14,5 millions boys in 2012.
+  correct: []
+
+- correct: She has been a famous person since 1998.
+
+- text:    She hasn't showed up from 1998.
+  correct: []
+
+- correct: From one of the children he has heard.
