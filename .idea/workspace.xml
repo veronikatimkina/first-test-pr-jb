@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e8fd2d5-c573-42d8-9bcd-580b24263cc2" name="Changes" comment="1">
+    <list default="true" id="8e8fd2d5-c573-42d8-9bcd-580b24263cc2" name="Changes" comment="new msg">
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Class1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +38,8 @@
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="872b1108-69de-450d-8540-524dcee1643d" />
-        <option name="url" value="https://github.com/testaccount120/first-test-pr-jb.git" />
+        <option name="accountId" value="3badf2b0-3319-41e1-98bc-f756d7e7bcc0" />
+        <option name="url" value="https://github.com/veronikatimkina/first-test-pr-jb.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -55,12 +57,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EmptyPrWithModules" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -113,7 +115,14 @@
       <workItem from="1626876076466" duration="36000" />
       <workItem from="1626877906810" duration="322000" />
       <workItem from="1626878241175" duration="137000" />
-      <workItem from="1633084907616" duration="4048000" />
+      <workItem from="1633084907616" duration="4762000" />
+      <workItem from="1633431722745" duration="22000" />
+      <workItem from="1633433330927" duration="1060000" />
+      <workItem from="1633435826322" duration="182000" />
+      <workItem from="1633436030631" duration="746000" />
+      <workItem from="1633453303613" duration="69000" />
+      <workItem from="1633521434943" duration="937000" />
+      <workItem from="1633524221450" duration="500000" />
     </task>
     <task id="LOCAL-00001">
       <created>1625499305102</created>
@@ -164,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633087861925</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="typing something">
+      <created>1633103909396</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1633103909396</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,6 +223,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aaaaaa" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="typing something" />
+    <option name="LAST_COMMIT_MESSAGE" value="typing something" />
   </component>
 </project>
