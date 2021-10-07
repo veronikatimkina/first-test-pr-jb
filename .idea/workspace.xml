@@ -10,10 +10,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="test-hint2" />
+        <entry key="$PROJECT_DIR$" value="aaa" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,13 +31,6 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="GithubProjectSettings">
-    <option name="branchProtectionPatterns">
-      <list>
-        <option value=".*branch.*" />
-      </list>
-    </option>
-  </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -42,6 +38,9 @@
         <option name="url" value="https://github.com/veronikatimkina/first-test-pr-jb.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1uRnVWYqGReuGB2fUvtqAzgSiJd" />
   <component name="ProjectViewState">
@@ -54,12 +53,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EmptyPrWithModules" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -112,6 +111,16 @@
       <workItem from="1626876076466" duration="36000" />
       <workItem from="1626877906810" duration="322000" />
       <workItem from="1626878241175" duration="137000" />
+      <workItem from="1633084907616" duration="4762000" />
+      <workItem from="1633431722745" duration="22000" />
+      <workItem from="1633433330927" duration="1060000" />
+      <workItem from="1633435826322" duration="182000" />
+      <workItem from="1633436030631" duration="746000" />
+      <workItem from="1633453303613" duration="69000" />
+      <workItem from="1633521434943" duration="937000" />
+      <workItem from="1633524221450" duration="500000" />
+      <workItem from="1633530129349" duration="4431000" />
+      <workItem from="1633595513830" duration="3243000" />
     </task>
     <task id="LOCAL-00001">
       <created>1625499305102</created>
@@ -148,7 +157,35 @@
       <option name="project" value="LOCAL" />
       <updated>1626878312594</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1">
+      <created>1633020911929</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1633020911929</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1">
+      <created>1633087861925</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1633087861925</updated>
+    </task>
+    <task id="LOCAL-00008" summary="typing something">
+      <created>1633103909396</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1633103909396</updated>
+    </task>
+    <task id="LOCAL-00009" summary="new msg">
+      <created>1633605795770</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1633605795770</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,10 +224,12 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aaaaaa" />
-    <option name="LAST_COMMIT_MESSAGE" value="aaaaaa" />
+    <MESSAGE value="1" />
+    <MESSAGE value="typing something" />
+    <MESSAGE value="new msg" />
+    <option name="LAST_COMMIT_MESSAGE" value="new msg" />
   </component>
 </project>
