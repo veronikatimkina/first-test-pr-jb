@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e8fd2d5-c573-42d8-9bcd-580b24263cc2" name="Changes" comment="" />
+    <list default="true" id="8e8fd2d5-c573-42d8-9bcd-580b24263cc2" name="Changes" comment="new msg">
+      <change beforePath="$PROJECT_DIR$/src/main/java/pack/Class0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pack/Class0.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633605795770</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="new msg">
+      <created>1644231483956</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1644231483956</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
