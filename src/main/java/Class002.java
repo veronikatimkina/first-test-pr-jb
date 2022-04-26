@@ -1,10 +1,8 @@
 package main.java;
 
 public class Class002 {
-    //new line
     public static void main(String[] args) {
         System.out.println("Iggg <branch> is specifiederherherh, git rebase will perform an automatic git switch <branch> before doing anything else. Otherwise it remains on the current branch.\n" +
-                "\n" +
                 "If <upstream> evewvwevwevis not specified, the upstream configured in branch.<name>.remote and branch.<name>.merge options will be used (see git-config[1] for details) and the --fork-point option is assumed. If you are currently not on any branch or if the current branch does not have a configured upstream, the rebase will abort.");
 
         System.out.println("All changes made by commits in the current branch but that are not in <upstream> are saved to a temporary area. This is the same set of commits that would be shown by git log <upstream>..HEAD; or by git log 'fork_point'..HEAD, if --fork-point is active (see the description on --fork-point below); or by git log HEAD, if the --root option is specified.\n" +
