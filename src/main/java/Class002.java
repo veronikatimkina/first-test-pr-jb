@@ -1,5 +1,5 @@
 package main.java;
-
+//ewwefwefew
 public class Class002 {
     public static void main(String[] args) {
         System.out.println("Iggg <branch> is specifiederherherh, git rebase will perform an automatic git switch <branch> before doing anything else. Otherwise it remains on the current branch.\n" +
@@ -10,4 +10,5 @@ public class Class002 {
                 "\n" +
                 "The current branch is reset to <upstream>, or <newbase> if the --onto option was supplied. This has the exact same effect as git reset --hard <upstream> (or <newbase>). ORIG_HEAD is set to point at the tip of the branch before the reset.");
     }
+    //evwevwewefeegwgeefrennn
 }
