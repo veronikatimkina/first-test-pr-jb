@@ -1,8 +1,3 @@
-import org.junit.After;
-
-
-
-
 public class File1 {
-    //change1ыаиаива
+    //change1ыаиаива23ft23rf2r23r
 }
