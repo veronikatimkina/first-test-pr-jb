@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e8fd2d5-c573-42d8-9bcd-580b24263cc2" name="Changes" comment="test1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="aaa" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="05390039-a6f9-4fd8-96f9-26a35c9bdb6b" />
+        <option name="url" value="https://github.com/veronikatimkina/first-test-pr-jb.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1uRnVWYqGReuGB2fUvtqAzgSiJd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EmptyPrWithModules" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="first-test-pr-jb" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="first-test-pr-jb" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e8fd2d5-c573-42d8-9bcd-580b24263cc2" name="Changes" comment="" />
+      <created>1624637296671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624637296671</updated>
+      <workItem from="1624637298349" duration="318000" />
+      <workItem from="1625498393850" duration="215000" />
+      <workItem from="1625498626599" duration="3895000" />
+      <workItem from="1625508285948" duration="62000" />
+      <workItem from="1625508513072" duration="14000" />
+      <workItem from="1625508536524" duration="20000" />
+      <workItem from="1625562719460" duration="13000" />
+      <workItem from="1625747380174" duration="1049000" />
+      <workItem from="1625751767330" duration="569000" />
+      <workItem from="1625848923085" duration="910000" />
+      <workItem from="1625857625424" duration="379000" />
+      <workItem from="1626079236608" duration="276000" />
+      <workItem from="1626686021669" duration="666000" />
+      <workItem from="1626690488408" duration="306000" />
+      <workItem from="1626698616075" duration="27000" />
+      <workItem from="1626784002772" duration="738000" />
+      <workItem from="1626784968034" duration="193000" />
+      <workItem from="1626785171878" duration="21000" />
+      <workItem from="1626785204954" duration="5000" />
+      <workItem from="1626785241948" duration="471000" />
+      <workItem from="1626785722677" duration="55000" />
+      <workItem from="1626785787316" duration="131000" />
+      <workItem from="1626785927501" duration="400000" />
+      <workItem from="1626786337487" duration="86000" />
+      <workItem from="1626786432765" duration="495000" />
+      <workItem from="1626786945562" duration="492000" />
+      <workItem from="1626787693091" duration="446000" />
+      <workItem from="1626788448202" duration="158000" />
+      <workItem from="1626788615004" duration="448000" />
+      <workItem from="1626789212415" duration="15000" />
+      <workItem from="1626789339982" duration="154000" />
+      <workItem from="1626789802585" duration="21000" />
+      <workItem from="1626865391172" duration="454000" />
+      <workItem from="1626865876522" duration="301000" />
+      <workItem from="1626866264769" duration="4011000" />
+      <workItem from="1626871326022" duration="3225000" />
+      <workItem from="1626874875268" duration="519000" />
+      <workItem from="1626875404577" duration="102000" />
+      <workItem from="1626875553349" duration="307000" />
+      <workItem from="1626876076466" duration="36000" />
+      <workItem from="1626877906810" duration="322000" />
+      <workItem from="1626878241175" duration="137000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1625499305102</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625499305102</updated>
+    </task>
+    <task id="LOCAL-00002" summary="aaaaaa">
+      <created>1625499549761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625499549761</updated>
+    </task>
+    <task id="LOCAL-00003" summary="aaaaaa">
+      <created>1625502235771</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625502235772</updated>
+    </task>
+    <task id="LOCAL-00004" summary="aaaaaa">
+      <created>1626878217974</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626878217974</updated>
+    </task>
+    <task id="LOCAL-00005" summary="aaaaaa">
+      <created>1626878312594</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626878312594</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1">
+      <created>1633020911929</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1633020911929</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1">
+      <created>1633087861925</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1633087861925</updated>
+    </task>
+    <task id="LOCAL-00008" summary="typing something">
+      <created>1633103909396</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1633103909396</updated>
+    </task>
+    <task id="LOCAL-00009" summary="new msg">
+      <created>1633605795770</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1633605795770</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aaaaaa" />
+    <MESSAGE value="1" />
+    <MESSAGE value="typing something" />
+    <MESSAGE value="new msg" />
+    <option name="LAST_COMMIT_MESSAGE" value="new msg" />
+  </component>
+</project>
