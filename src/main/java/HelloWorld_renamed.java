@@ -2,7 +2,7 @@ package main.java;
 
 public class HelloWorld_renamed {
     public static void main(String[] args) {
-        System.out.println("sssswffffefwwe");
+        System.out.println("");
     }
 
     public void foo(){}
