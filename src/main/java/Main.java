@@ -20,9 +20,13 @@ public class Main {
     }
 
     public static int fibonacci(int n) {
-        if (n <= 1) {
+        if (n < 5) {
             return n;
         }
         return fibonacci(n - 1) + fibonacci(n - 2);
+    }
+
+    public static void sortLinkedList(LinkedList<String> list) {
+        list.sort(String::compareTo);
     }
 }
