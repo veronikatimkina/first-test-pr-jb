@@ -1,3 +1,5 @@
+package main.java;
+
 import java.util.LinkedList;
 
 public class Main {
@@ -12,7 +14,19 @@ public class Main {
         earlBio.add(str2);
         earlBio.add(str3);
 
+
         System.out.println(earlBio);
 
+    }
+
+    public static int fibonacci(int n) {
+        if (n < 5) {
+            return n;
+        }
+        return fibonacci(n - 1) + fibonacci(n - 2);
+    }
+
+    public static void sortLinkedList(LinkedList<String> list) {
+        list.sort(String::compareTo);
     }
 }

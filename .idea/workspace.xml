@@ -5,13 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e8fd2d5-c573-42d8-9bcd-580b24263cc2" name="Changes" comment="test1">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-test-pr-jb-fork3-ssh.iml" beforeDir="false" afterPath="$PROJECT_DIR$/first-test-pr-jb-fork3-ssh.iml" afterDir="false" />
     </list>
+    <list id="900e40bd-6dab-40d4-a75c-234be23eed86" name="New changelist" comment="New changelist" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Merge.Settings">
     <option name="BRANCH" value="master" />
@@ -19,13 +29,91 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="aaa" />
+        <entry key="$PROJECT_DIR$" value="fork/testaccount120/one_pull_req" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
+    <option name="SAVE_CHANGES_POLICY" value="STASH" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GitHubPullRequestState"><![CDATA[{
+  "prStates": [
+    {
+      "id": {
+        "id": "MDExOlB1bGxSZXF1ZXN0NTY2NzA2Nzgx",
+        "number": 59
+      },
+      "lastSeen": 1723222422908
+    },
+    {
+      "id": {
+        "id": "PR_kwDOD00wuc5NKbif",
+        "number": 134
+      },
+      "lastSeen": 1723573322670
+    },
+    {
+      "id": {
+        "id": "PR_kwDOD00wuc5MdzfC",
+        "number": 133
+      },
+      "lastSeen": 1723573330071
+    },
+    {
+      "id": {
+        "id": "PR_kwDOD00wuc5Mdtac",
+        "number": 132
+      },
+      "lastSeen": 1723573336043
+    },
+    {
+      "id": {
+        "id": "PR_kwDOD00wuc5L5Acx",
+        "number": 131
+      },
+      "lastSeen": 1723573358728
+    },
+    {
+      "id": {
+        "id": "MDExOlB1bGxSZXF1ZXN0NDA1NDc3NDAw",
+        "number": 1
+      },
+      "lastSeen": 1723573379025
+    },
+    {
+      "id": {
+        "id": "PR_kwDOD00wuc5Nl1RT",
+        "number": 135
+      },
+      "lastSeen": 1724929666534
+    },
+    {
+      "id": {
+        "id": "PR_kwDOD00wuc5IVfZv",
+        "number": 121
+      },
+      "lastSeen": 1725284114465
+    },
+    {
+      "id": {
+        "id": "PR_kwDOD00wuc5L46d-",
+        "number": 130
+      },
+      "lastSeen": 1726226054687
+    },
+    {
+      "id": {
+        "id": "PR_kwDOD00wuc5LXPZm",
+        "number": 129
+      },
+      "lastSeen": 1726226169153
+    }
+  ]
+}]]></component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -34,35 +122,56 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="05390039-a6f9-4fd8-96f9-26a35c9bdb6b" />
-        <option name="url" value="https://github.com/veronikatimkina/first-test-pr-jb.git" />
-      </UrlAndAccount>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="test.*" />
+      </list>
     </option>
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/veronikatimkina/first-test-pr-jb.git",
+    "accountId": "8b87a836-993d-4f5b-8e5d-7d22104d7800"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="1uRnVWYqGReuGB2fUvtqAzgSiJd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EmptyPrWithModules" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.Enable generate summary features in internal mode&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/Veronika.Timkina/IdeaProjects/first-test-pr-jb&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Language Defaults&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="first-test-pr-jb" />
@@ -77,6 +186,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="first-test-pr-jb" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="first-test-pr-jb" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-cc57bc32c8c0-intellij.indexing.shared.core-IU-243.14708" />
+        <option value="bundled-js-predefined-d6986cc7102b-702c07f07bed-JavaScript-IU-243.14708" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -128,6 +258,35 @@
       <workItem from="1626876076466" duration="36000" />
       <workItem from="1626877906810" duration="322000" />
       <workItem from="1626878241175" duration="137000" />
+      <workItem from="1718976547704" duration="1090000" />
+      <workItem from="1720199117772" duration="1481000" />
+      <workItem from="1721033254328" duration="640000" />
+      <workItem from="1721035003539" duration="631000" />
+      <workItem from="1721039387317" duration="244000" />
+      <workItem from="1721040370810" duration="3823000" />
+      <workItem from="1721647379558" duration="339000" />
+      <workItem from="1721667463013" duration="4946000" />
+      <workItem from="1722269409260" duration="32000" />
+      <workItem from="1722343783180" duration="6167000" />
+      <workItem from="1722443374845" duration="2246000" />
+      <workItem from="1722518948010" duration="1134000" />
+      <workItem from="1723222047803" duration="439000" />
+      <workItem from="1723222709651" duration="573000" />
+      <workItem from="1723573293677" duration="122000" />
+      <workItem from="1723639655178" duration="28000" />
+      <workItem from="1724674634170" duration="260000" />
+      <workItem from="1724677159416" duration="46000" />
+      <workItem from="1724677262333" duration="327000" />
+      <workItem from="1724677649414" duration="147000" />
+      <workItem from="1724677803478" duration="1133000" />
+      <workItem from="1724860547405" duration="1093000" />
+      <workItem from="1724922618261" duration="37000" />
+      <workItem from="1724922677178" duration="84000" />
+      <workItem from="1724922767990" duration="16000" />
+      <workItem from="1724929606767" duration="37000" />
+      <workItem from="1724929647764" duration="2653000" />
+      <workItem from="1725284036246" duration="144000" />
+      <workItem from="1726225992752" duration="182000" />
     </task>
     <task id="LOCAL-00001">
       <created>1625499305102</created>
@@ -192,7 +351,31 @@
       <option name="project" value="LOCAL" />
       <updated>1633605795770</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="test1">
+      <option name="closed" value="true" />
+      <created>1720199170532</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1720199170532</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test1">
+      <option name="closed" value="true" />
+      <created>1722359512215</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1722359512215</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test1">
+      <option name="closed" value="true" />
+      <created>1722509047132</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1722509047132</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,17 +393,49 @@
     </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="c9ac4b47-cef2-4dd9-9294-7e39efea60c3" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="quququ" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="c9ac4b47-cef2-4dd9-9294-7e39efea60c3">
+          <value>
             <State>
               <option name="FILTERS">
                 <map>
-                  <entry key="branch">
+                  <entry key="range">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="origin/master..origin/ontoTest" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
                       </list>
                     </value>
                   </entry>
@@ -237,6 +452,12 @@
     <MESSAGE value="1" />
     <MESSAGE value="typing something" />
     <MESSAGE value="new msg" />
-    <option name="LAST_COMMIT_MESSAGE" value="new msg" />
+    <MESSAGE value="test1" />
+    <MESSAGE value="New changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="New changelist" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
