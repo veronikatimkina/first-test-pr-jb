@@ -1,7 +1,7 @@
 public class TestBr {
     
     public static void main(String[] args) {
-        System.out.println(test(22));
+        System.out.println(test(23232245245235345342342));
     }
 //dvsegvsegeg
     public static int test(int a){
